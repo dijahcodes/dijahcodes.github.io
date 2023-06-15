@@ -4,7 +4,7 @@
 
 
 @font-face {
-  font-family: "font-family: 'Heebo', sans-serif;
+  font-family:'Heebo', sans-serif;
 
   font-display: swap;
   font-weight: 300 400 500;
@@ -80,7 +80,7 @@ body.light {
 }
 
 html {
-  font-family: "Mona Sans", sans-serif;
+  font-family: "Heebo", sans-serif;
   box-sizing: border-box;
   scroll-padding-top: var(--scroll-padding);
   /* scroll-behavior: smooth; */
