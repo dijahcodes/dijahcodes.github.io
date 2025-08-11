@@ -24,8 +24,8 @@ export default function SystemArchitecture() {
 							tech: ['Kubernetes', 'Docker', 'Istio', 'Kafka', 'MongoDB', 'Redis'],
 						},
 						{
-							title: 'Real-time Data Processing Pipeline',
-							description: 'Built a robust data processing pipeline handling 5TB+ daily data with sub-second latency',
+							title: 'Example Name',
+							description: 'Add here a brief description of the project',
 							details: [
 								'Implemented stream processing with Apache Flink',
 								'Designed fault-tolerant architecture with automatic failover',
@@ -41,7 +41,7 @@ export default function SystemArchitecture() {
 							whileInView={{ opacity: 1, y: 0 }}
 							viewport={{ once: true }}
 							transition={{ delay: index * 0.2 }}
-							className="bg-gray-900/50 rounded-xl p-6 backdrop-blur-sm border border-gray-800"
+							className="bg-purple-900/50 rounded-xl p-6 backdrop-blur-sm border border-gray-800"
 						>
 							<h3 className="text-2xl font-bold mb-4">{project.title}</h3>
 							<p className="text-gray-400 mb-6">{project.description}</p>

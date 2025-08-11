@@ -23,17 +23,17 @@ export default function HeroSection() {
 						<div className="w-3 h-3 rounded-full bg-green-500" />
 					</div>
 					<div className="font-mono">
-						<p className="text-green-500">$ whoami</p>
+						<p className="text-pink-500">$ whoami</p>
 						<h1 className="text-4xl md:text-5xl font-bold mt-2 mb-4">Dijah McDonald</h1>
 						<p className="text-gray-400 mb-2">Full-stack Engineer</p>
-						<p className="text-green-500">$ skills</p>
+						<p className="text-pink-500">$ skills</p>
 						<div className="flex flex-wrap gap-2 mt-2">
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Javascript</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">HTML + CSS</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Java</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">React</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Docker</span>
-							<span className="px-3 py-1 bg-green-500/10 rounded-md border border-green-500/20">Penetration testing</span>
+							<span className="px-3 py-1 bg-pink-500/10 rounded-md border border-pink-500/20">Javascript</span>
+							<span className="px-3 py-1 bg-pink-500/10 rounded-md border border-pink-500/20">HTML + CSS</span>
+							<span className="px-3 py-1 bg-pink-500/10 rounded-md border border-pink-500/20">Java</span>
+							<span className="px-3 py-1 bg-pink-500/10 rounded-md border border-pink-500/20">React</span>
+							<span className="px-3 py-1 bg-pink-500/10 rounded-md border border-pink-500/20">Docker</span>
+							<span className="px-3 py-1 bg-pink-500/10 rounded-md border border-pink-500/20">Penetration testing</span>
 						</div>
 					</div>
 				</motion.div>

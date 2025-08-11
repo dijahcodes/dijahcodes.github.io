@@ -78,7 +78,7 @@ export default function TechnicalMetrics() {
 
 					{/* Development & Leadership */}
 					<div>
-						<h3 className="text-xl font-semibold mb-6 text-green-400">Development & Leadership</h3>
+						<h3 className="text-xl font-semibold mb-6 text-pink-400">Development & Leadership</h3>
 						<div className="grid grid-cols-1 md:grid-cols-2 gap-6">
 							<motion.div
 								initial={{ opacity: 0, scale: 0.95 }}
