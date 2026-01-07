@@ -1,7 +1,5 @@
 
-# Angie
-
-ANGIE is a sleek Astro portfolio template built for creatives and developers. Featuring responsive layouts, customizable sections, and a bold brutalist design, it’s made to help you stand out and showcase your work with style.
+# Dijahcodes.github.io
 
 
 
