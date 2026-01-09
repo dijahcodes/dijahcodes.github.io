@@ -4,14 +4,14 @@ const author = {
     tiktok: `https://www.tiktok.com/`,
     ig: `https://www.instagram.com/dijahcodes/`,
     x: `https://x.com/dijahcodes`,
-    //email: 'mailto:anthonylannn@gmail.com'
+    //email: 'mailto:'
 
 }
 
 
 const buy = {
     title: `See on Github`,
-    link: `https://github.com/anthonylan/dijahcodes`
+    link: `https://github.com/dijahcodes`
 }
 
 
