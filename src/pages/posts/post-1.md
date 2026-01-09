@@ -1,8 +1,8 @@
 ---
 layout: ../../components/MarkdownPost.astro
-title: "Warren Buffett’s Seven Rules: An Economic Masterclass in Value Investing"
+title: "Happy New Year and Hello"
 author: 
-  name: "Jessica Stillman"
+  name: "Dijah(codes)"
   url: "https://images.pexels.com/photos/935743/pexels-photo-935743.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 image:
   url: "https://images.pexels.com/photos/313690/pexels-photo-313690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
@@ -14,7 +14,7 @@ comments: '119'
 ---
 
 
-Look around at social media, politics, or the news and you’re likely to agree with the bodybuilding champ-turned-movie star-turned-governor of California.
+Hello and welcome! I hope your 2025 was good, and I hope you're 2026 is even better.
 
 Whether he was lifting weights for five hours a day or trying to hack a path through the thicket of California politics, Schwarzenegger claims he was consistently happy. What allowed him to maintain a positive outlook despite personal setbacks and tough jobs? In his book Be Useful, Schwarzenegger boils down his philosophy to just four words.
 
